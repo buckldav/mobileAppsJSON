@@ -1,9 +1,7 @@
 {
-  user: {
-    name: "Merit Knight",
-    email: "merit.apcs@gmail.com"
+  "user": {
+    "name": "Merit Knight",
+    "email": "merit.apcs@gmail.com"
   },
-  appData: {
-    message: "This is an app that read some JSON and spit it back out!"
-  }
+  "appData": "This is an app that read some JSON and spit it back out!"
 }
